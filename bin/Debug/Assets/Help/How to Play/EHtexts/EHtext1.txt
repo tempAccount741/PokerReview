@@ -1,0 +1,10 @@
+To start with, each player is dealt two cards face down. 
+These cards are known as hole cards, and in Hold em, they are the only cards that are yours alone.A round of betting follows.
+Next, the computer deals three cards face up in the center of the table. This is called "/the flop/".
+These three cards are community cards, meaning everyone can use them. There is another round of betting.
+The computer now deals a fourth face-up card, called "the turn".
+Again, it is a shared card that all players can use, and again, it is followed by a round of betting.
+A fifth and final card is dealt face-up, called "the river". There is one last round of betting.
+If more than one player is left in the hand, there is a showdown: the players flip over their hole cards to see who has the best hand. 
+The five cards in the middle are collectively called the board. 
+Each player gets to combine one, both, or none of his hole cards with any of the cards from the board to create his best five-card poker hand.

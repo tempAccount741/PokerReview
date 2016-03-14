@@ -1,0 +1,26 @@
+*Pre-Flop
+Betting begins with the player seated to the immediate left of the big blind. 
+If you are this player you can call the blind bet by pressing "Call" (hotkey C) or fold by pressing "Fold" (hotkey F), in which case you surrender your cards.
+If you like your hand, however, you can also raise.
+When the action gets around to the little blind, he, too, must call, fold, or raise. 
+In any case, he has already paid a fraction of a bet, so it is cheaper for him to call than for the other players. 
+If he folds, he forfeits his blind and his money stay's on the table.
+The big blind is last to act before the flop. 
+He is got the same options as the players before him, with one difference: because he is already put in a full bet, he can simply check, indicating he is taking no further action, if no one has raised and he himself doesn not want to raise.
+TIP *Folding while on big blind is not recommended.
+
+* On the Flop
+After the three common cards of the flop are dealt, betting starts again.
+Because in this round no one has bet yet, the first player has the option of checking, meaning she takes no action or betting.
+The betting action keeps moving to the left. If the first player checked, the next player has the same options of either checking or betting. 
+But if the first player bet, the next player must now either call that bet, fold, or raise.
+The action continues around the table, until either everyone has checked, or someone has opened the betting and gotten at least one caller (or possibly a raiser). 
+If everyone checks, then everyone remains in and gets to see the turn card. 
+But if someone bets, only those players who call that bet (or raise it) get to see the turn card.
+ Otherwise they must fold. If no one calls, the bettor wins the pot automatically.
+ 
+ * On the Turn and River
+Betting on the turn and the river is just like betting on the flop. 
+On the river, if more than one player is left in the hand after the betting is over, the players flip over their hands. 
+This is called the showdown. The pot will be given to to the winner, or if there’s a tie, splited accordingly. 
+The cards will be shuffled, and it starts all over again. 
